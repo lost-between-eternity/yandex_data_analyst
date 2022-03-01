@@ -1,2 +1,2 @@
-# yandex_data_analyst
-meow?
+# Data-Analytics-Projects
+Привет дорогой друг, рад тебя видеть в моем репозитории.
